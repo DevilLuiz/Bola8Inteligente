@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "../..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32s3:PSRAM=opi,FlashSize=16M,PartitionScheme=app3M_fat9M_16MB",
+  "hardwareFolders": "/home/forest_gomes/.arduino-docker/data/packages/esp32/hardware/esp32/3.3.12,/home/forest_gomes/.arduino-docker/data/packages/esp32/hardware/esp32/3.3.12",
+  "otherLibrariesFolders": "/home/forest_gomes/.arduino-docker/user/libraries",
+  "sketchLocation": "/mnt/hd/Projetos/BolaMagica/projetoBola/firmware/bola"
+}
